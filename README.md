@@ -19,7 +19,14 @@ Nhìn sang bên phải sẽ thấy System instructions (SI), hãy click vào đ�
 Một số tùy chọn:
 - Thinking Level: Nên để là High để AI suy nghĩ sâu hơn;
 - Các tùy chọn khác để như mặc định;
-- Model AI: Nên chọn từ Flash trở lên, các model dòng thấp Lite không đủ chất lượng để dịch;
+- Model AI: Nên chọn từ Flash trở lên, các model dòng thấp như Lite không đủ chất lượng để dịch;
+
+## Lưu ý về chính sách thu thập dữ liệu
+Tùy chính sách mỗi AI, tuy nhiên môi trường playground có thể AI sẽ thu thập dữ liệu của người dùng, nhất là tài khoản miễn phí.
+
+Đối với tài khoản trả phí, có khả năng AI sẽ không thu thập.
+
+Trường hợp AI có thu thập dữ liệu, bạn không nên tải lên tài liệu có bản quyền, hoặc tài liệu riêng tư.
 
 ## Tuyên bố từ chối trách nhiệm
 Công cụ này có thể được sử dụng cho mục đích nghiên cứu và học tập cá nhân.
