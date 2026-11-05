@@ -1,5 +1,5 @@
 # MarkdownBox
-System Instructions dịch thuật cho tài liệu khoa học dùng ngay trong Playground của công cụ AI. File cần dịch có thể ở bất cứ định dạng nào (PDF, Markdown, DOCX, TXT, v.v..).
+System Instructions dịch thuật cho tài liệu khoa học dùng ngay trong Playground của công cụ AI. File cần dịch có thể ở bất cứ định dạng nào (PDF, Markdown, DOCX, TXT, v.v..) mà công cụ AI của bạn cho phép tải lên.
 
 Bản dịch trả về định dạng markdown hiển thị ngay trên trình duyệt người dùng. 
 
