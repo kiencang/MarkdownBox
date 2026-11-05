@@ -14,8 +14,9 @@ Bạn chỉ việc copy SI này và đưa vào System Instructions trong Playgro
 ## Ví dụ
 Bạn có thể thử với Playground của Gemini: https://aistudio.google.com/prompts/new_chat
 
-Nhìn sang bên phải sẽ thấy System instructions (SI), hãy click vào đặt tên cho SI và copy SI ở đường link trên vào để thiết lập chỉ thị hệ thống (SI) cho phiên làm việc hiện tại của bạn. Từ lần sau mỗi lần làm việc với AI bạn chỉ cần chọn lại SI mà bạn muốn từ danh sách đã lưu.
+Nhìn sang bên phải sẽ thấy System instructions (SI), hãy click vào đặt tên cho SI và copy nội dung SI ở đường link trên vào để thiết lập chỉ thị hệ thống (SI) cho phiên làm việc hiện tại của bạn. Từ lần sau mỗi lần làm việc với AI bạn chỉ cần chọn lại SI mà bạn muốn từ danh sách đã lưu.
 
 Một số tùy chọn:
 - Thinking Level: Nên để là High để AI suy nghĩ sâu hơn;
 - Các tùy chọn khác để như mặc định;
+- Model AI: Nên chọn từ Flash trở lên, các model dòng thấp Lite không đủ chất lượng để dịch;
