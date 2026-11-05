@@ -20,3 +20,8 @@ Một số tùy chọn:
 - Thinking Level: Nên để là High để AI suy nghĩ sâu hơn;
 - Các tùy chọn khác để như mặc định;
 - Model AI: Nên chọn từ Flash trở lên, các model dòng thấp Lite không đủ chất lượng để dịch;
+
+## Tuyên bố từ chối trách nhiệm
+Công cụ này có thể được sử dụng cho mục đích nghiên cứu và học tập cá nhân.
+
+MarkdownBox cũng như người phát triển nó không đưa ra bất kỳ bảo đảm rõ ràng hay ngụ ý nào, cũng như không tuyên bố rằng công cụ sẽ vận hành hoàn hảo, chính xác hoặc cập nhật. Người phát triển sẽ không chịu trách nhiệm cho bất kỳ tổn thất hay thiệt hại nào phát sinh trực tiếp hoặc gián tiếp liên quan đến hoặc phát sinh từ việc sử dụng công cụ này.
