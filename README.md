@@ -32,6 +32,7 @@ Một số tùy chọn:
 - Model AI: Nên chọn từ Flash trở lên, các model dòng thấp như Lite không đủ chất lượng để dịch;
 - Lưu ý: Với người dùng đăng ký các gói Gemini Pro, bạn có thể chọn các model cao hơn so với người dùng thông thường, ví dụ model `Gemini 4 Argon`;
 
+Khi muốn dịch, bạn chỉ cần tải file lên rồi gõ: `Hãy dịch tài liệu sau sang tiếng Việt.`
 ## Lưu ý về chính sách thu thập dữ liệu
 Tùy chính sách mỗi AI, tuy nhiên môi trường playground có thể AI sẽ thu thập dữ liệu của người dùng. Do vậy nên thận trọng với tài liệu có bản quyền hoặc riêng tư.
 
