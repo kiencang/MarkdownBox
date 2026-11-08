@@ -33,9 +33,7 @@ Một số tùy chọn:
 - Lưu ý: Với người dùng đăng ký các gói Gemini Pro, bạn có thể chọn các model cao hơn so với người dùng thông thường, ví dụ model `Gemini 4 Argon`;
 
 ## Lưu ý về chính sách thu thập dữ liệu
-Tùy chính sách mỗi AI, tuy nhiên môi trường playground có thể AI sẽ thu thập dữ liệu của người dùng.
-
-Trường hợp AI có thu thập dữ liệu, bạn không nên tải lên tài liệu có bản quyền, hoặc tài liệu riêng tư.
+Tùy chính sách mỗi AI, tuy nhiên môi trường playground có thể AI sẽ thu thập dữ liệu của người dùng. Do vậy nên thận trọng với tài liệu có bản quyền hoặc riêng tư.
 
 ## Tuyên bố từ chối trách nhiệm
 Công cụ này có thể được sử dụng cho mục đích nghiên cứu và học tập cá nhân.
