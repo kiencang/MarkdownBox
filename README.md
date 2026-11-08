@@ -11,20 +11,29 @@ Bản dịch trả về định dạng markdown hiển thị ngay trên trình d
 
 Bạn chỉ việc copy SI này và đưa vào System Instructions trong Playground: https://raw.githubusercontent.com/kiencang/MarkdownBox/refs/heads/main/scientific_system_instructions.md
 
-## Ví dụ
+## Ví dụ với AI Studio (Gemini)
 Bạn có thể thử với Playground của Gemini: https://aistudio.google.com/prompts/new_chat
 
 Nhìn sang bên phải sẽ thấy System instructions (SI), hãy click vào đặt tên cho SI và copy nội dung SI ở đường link trên vào để thiết lập chỉ thị hệ thống (SI) cho phiên làm việc hiện tại của bạn. Từ lần sau mỗi lần làm việc với AI bạn chỉ cần chọn lại SI mà bạn muốn từ danh sách đã lưu.
 
+<p align="center">
+  <img src="images/nhap-SI.png" alt="Nhập SI">
+   <br><em>Nhập tên SI và copy nội dung từ file `scientific_system_instructions.md` vào khung.</em>
+</p>
+
 Một số tùy chọn:
 - Thinking Level: Nên để là High để AI suy nghĩ sâu hơn;
+<p align="center">
+  <img src="images/thingking-level.png" alt="Thinking Level">
+   <br><em>Để High để công cụ dịch tốt hơn.</em>
+</p>
+
 - Các tùy chọn khác để như mặc định;
 - Model AI: Nên chọn từ Flash trở lên, các model dòng thấp như Lite không đủ chất lượng để dịch;
+- Lưu ý: Với người dùng đăng ký các gói Gemini Pro, bạn có thể chọn các model cao hơn so với người dùng thông thường, ví dụ model `Gemini 4 Argon`;
 
 ## Lưu ý về chính sách thu thập dữ liệu
-Tùy chính sách mỗi AI, tuy nhiên môi trường playground có thể AI sẽ thu thập dữ liệu của người dùng, nhất là tài khoản miễn phí.
-
-Đối với tài khoản trả phí, có khả năng AI sẽ không thu thập.
+Tùy chính sách mỗi AI, tuy nhiên môi trường playground có thể AI sẽ thu thập dữ liệu của người dùng.
 
 Trường hợp AI có thu thập dữ liệu, bạn không nên tải lên tài liệu có bản quyền, hoặc tài liệu riêng tư.
 
