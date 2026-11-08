@@ -30,7 +30,7 @@ Một số tùy chọn:
 
 - Các tùy chọn khác để như mặc định;
 - Model AI: Nên chọn từ Flash trở lên, các model dòng thấp như Lite không đủ chất lượng để dịch;
-- Lưu ý: Với người dùng đăng ký các gói Gemini Pro, bạn có thể chọn các model cao hơn so với người dùng thông thường, ví dụ model `Gemini 4 Argon`;
+- Lưu ý: Với người dùng đăng ký các gói Gemini Pro, bạn có thể chọn các model cao hơn so với người dùng thông thường, ví dụ model `Gemini 4 Argon`; Model Argon không chỉ có tiềm năng dịch tốt hơn, nó còn có khả năng dịch dài hơn rất nhiều (bạn cần điều chỉnh thêm `Output length` để nó có khả năng dịch dài).
 
 Khi muốn dịch, bạn chỉ cần tải file lên rồi gõ: `Hãy dịch tài liệu sau sang tiếng Việt.`
 ## Lưu ý về chính sách thu thập dữ liệu
