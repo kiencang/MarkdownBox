@@ -36,6 +36,7 @@ Một số tùy chọn:
 
 Khi muốn dịch, bạn chỉ cần tải file lên rồi gõ: `Hãy dịch tài liệu sau sang tiếng Việt.`
 
+## Công cụ hỗ trợ
 Công cụ hỗ trợ để chuyển đổi HTML hoặc EPUB sang định dạng Markdown giúp dễ dàng up tài liệu lên AI hỏi đáp: https://markping.nguyenducanh.workers.dev/ (GitHib: https://github.com/kiencang/MarkPing)
 
 ## Lưu ý về chính sách thu thập dữ liệu
