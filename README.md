@@ -9,7 +9,9 @@ Bản dịch trả về định dạng markdown hiển thị ngay trên trình d
 - Ít lỗi hơn, vì mã markdown rất đơn giản;
 - Hiển thị được ngay trên giao diện người dùng, không cần phải copy kết quả, lưu lại rồi mới xem được.
 
-Bạn chỉ việc copy SI này và đưa vào System Instructions trong Playground: https://raw.githubusercontent.com/kiencang/MarkdownBox/refs/heads/main/scientific_system_instructions.md
+Bạn chỉ việc copy SI này và đưa vào System Instructions trong Playground: 
+- Dịch tài liệu khoa học: https://raw.githubusercontent.com/kiencang/MarkdownBox/refs/heads/main/scientific_system_instructions.md
+- Dịch nội dung web nói chung: https://raw.githubusercontent.com/kiencang/MarkdownBox/refs/heads/main/web_system_instructions.md
 
 ## Ví dụ với AI Studio (Gemini)
 Bạn có thể thử với Playground của Gemini: https://aistudio.google.com/prompts/new_chat
