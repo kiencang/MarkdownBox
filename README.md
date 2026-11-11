@@ -33,6 +33,9 @@ Một số tùy chọn:
 - Lưu ý: Với người dùng đăng ký các gói Gemini Pro, bạn có thể chọn các model cao hơn so với người dùng thông thường, ví dụ model `Gemini 4 Argon`; Model Argon không chỉ có tiềm năng dịch tốt hơn, nó còn có khả năng dịch dài hơn rất nhiều (bạn cần điều chỉnh thêm `Output length` để nó có khả năng dịch dài).
 
 Khi muốn dịch, bạn chỉ cần tải file lên rồi gõ: `Hãy dịch tài liệu sau sang tiếng Việt.`
+
+Công cụ hỗ trợ để chuyển đổi HTML hoặc EPUB sang định dạng Markdown giúp dễ dàng up tài liệu lên AI hỏi đáp: https://markping.nguyenducanh.workers.dev/ (GitHib: https://github.com/kiencang/MarkPing)
+
 ## Lưu ý về chính sách thu thập dữ liệu
 Tùy chính sách mỗi AI, tuy nhiên môi trường playground có thể AI sẽ thu thập dữ liệu của người dùng. Do vậy nên thận trọng với tài liệu có bản quyền hoặc riêng tư.
 
